@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20150129</CreaDate><CreaTime>14560000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Users\wg4\AppData\Roaming\ESRI\Desktop10.0\ArcToolbox\My Toolboxes\Joins.tbx\JoinField" Date="20150129" Time="145600">JoinField trb_land_2009 VALUE TRB_Crop_Class VALUE VALUE;LANDUSE;Class2;Class1</Process></lineage></DataProperties></Esri></metadata>

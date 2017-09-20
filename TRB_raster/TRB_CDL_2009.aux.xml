@@ -1,0 +1,24 @@
+<PAMDataset>
+  <Metadata domain="ESRI">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>TRB_land_2009</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>7375|397283|60690|9|598|462293|268|0|0|0|172|751|844|572|0|0|0|0|0|0|0|33|0|0|7589|4|173119|233|769|285|0|1|0|0|0|0|944|2617691|0|0|0|0|338|49|2942|0|100|2410|47|0|0|0|0|9|10|0|0|0|8|4062|21166|4780|0|16038|0|0|0|0|2672|0|1554|2|0|0|15|0|0|0|0|0|0|0|0|0|0|0|0|272|0|0|0|0|56|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|696287|0|0|0|0|0|0|0|0|0|1849607|470447|122480|40847|0|0|0|0|0|0|36751|0|0|0|0|0|0|0|0|0|14693277|922040|394071|0|0|0|0|0|0|0|0|577559|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3153821|0|0|0|0|0|0|0|0|0|0|0|0|0|208428|0|0|0|0|5476|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|15|0|0|0|7|0|0|0|0|0|0|194|3|2|49|4|273|0|5|0|0|0|0|0|0|0|0|0|0|0|0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">243</MDI>
+      <MDI key="STATISTICS_MEAN">127.37514903729</MDI>
+      <MDI key="STATISTICS_STDDEV">43.00562865018</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

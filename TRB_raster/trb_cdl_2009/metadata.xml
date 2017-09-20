@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20150128</CreaDate><CreaTime>16215300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.0\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20150128" Time="162153">ExtractByMask cdl09_rect TRB_Boundary C:\WGS\TRB\Data\aData\CDL_loopup\trb2009_raster\TRB_land_2009</Process></lineage></DataProperties></Esri></metadata>
